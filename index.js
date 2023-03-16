@@ -6,24 +6,24 @@ const pugDimensions = { width: 353 * 1.2, height: 325 * 1.2 };
 
 
 const levels = {
-  5: "ERROR",
-  10: "ERROR",
-  15: "ERROR",
-  35: "ERROR",
-  65: "ERROR",
-  105: "ERROR",
-  150: "ERROR",
-  250: "ERROR",
-  450: "ERROR",
-  650: "ERROR",
-  1000: "ERROR",
-  1500: "ERROR",
-  2500: "ERROR",
-  3500: "ERROR",
-  4500: "ERROR",
-  10500: "ERROR",
-  20500: "ERROR",
-  30500: "ERROR"
+  5: "RANKS BROKE",
+  10: "RANKS BROKE",
+  15: "RANKS BROKE",
+  35: "RANKS BROKE",
+  65: "RANKS BROKE",
+  105: "RANKS BROKE",
+  150: "RANKS BROKE",
+  250: "RANKS BROKE",
+  450: "RANKS BROKE",
+  650: "RANKS BROKE",
+  1000: "RANKS BROKE",
+  1500: "RANKS BROKE",
+  2500: "RANKS BROKE",
+  3500: "RANKS BROKE",
+  4500: "RANKS BROKE",
+  10500: "RANKS BROKE",
+  20500: "RANKS BROKE",
+  30500: "RANKS BROKE"
 }
 
 const startTime = Date.now();
