@@ -6,24 +6,24 @@ const pugDimensions = { width: 353 * 1.2, height: 325 * 1.2 };
 
 
 const levels = {
-  5: "RANKS BROKE",
-  10: "RANKS BROKE",
-  15: "RANKS BROKE",
-  35: "RANKS BROKE",
-  65: "RANKS BROKE",
-  105: "RANKS BROKE",
-  150: "RANKS BROKE",
-  250: "RANKS BROKE",
-  450: "RANKS BROKE",
-  650: "RANKS BROKE",
-  1000: "RANKS BROKE",
-  1500: "RANKS BROKE",
-  2500: "RANKS BROKE",
-  3500: "RANKS BROKE",
-  4500: "RANKS BROKE",
-  10500: "RANKS BROKE",
-  20500: "RANKS BROKE",
-  30500: "RANKS BROKE"
+  5: "Nobody",
+  10: "Bad Friend",
+  15: "Ok Friend",
+  35: "Good Friend",
+  65: "Best Friend,
+  105: "MORE RANKS SOON...",
+  150: "MORE RANKS SOON...",
+  250: "MORE RANKS SOON...",
+  450: "MORE RANKS SOON...",
+  650: "MORE RANKS SOON...",
+  1000: "MORE RANKS SOON...",
+  1500: "MORE RANKS SOON...",
+  2500: "MORE RANKS SOON...",
+  3500: "MORE RANKS SOON...",
+  4500: "MORE RANKS SOON...",
+  10500: "MORE RANKS SOON...",
+  20500: "MORE RANKS SOON...",
+  30500: "Menace."
 }
 
 const startTime = Date.now();
